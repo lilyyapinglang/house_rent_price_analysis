@@ -1,0 +1,5 @@
+SELECT DISTINCT sh_all_url.url
+FROM sh_all_url
+LEFT JOIN sh_home_data ON sh_all_url.url = sh_home_data.link
+WHERE sh_home_data.link IS NULL;
+
