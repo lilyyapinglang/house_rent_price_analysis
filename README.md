@@ -61,17 +61,18 @@ Overall, the entire process of selecting models, fine tuning, model stacking, fe
 
 ## Libraries used 
 - Python 3.11.3 
+- Refer to `.\requirement.txt`
 
 ## Usage
 
 1. Clone the repository: git clone https://github.com/username/rental-price-prediction.git
-2. Navigate into the cloned repository: cd rental-price-prediction
+2. Navigate into the cloned repository
 3. Install the necessary libraries: pip install -r requirements.txt
 4. Go to `house_rental_shanghai.ipynb` and run the cells.
 
 Note: You will need `Python 3.x` and `pip` installed on your machine to run this project.
 
-## the files in the repository 
+## Files in the repository 
 
 - collect_data 
     - `get_all_urls_rent.py`, scraping script to get all the urls of rental apartment in Lianjia.com
