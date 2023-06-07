@@ -7,6 +7,9 @@ As young professional living in metropolitan like Shanghai, housing cost could t
 
 I would like to do some research on Shanghai's rental apartment market to prepare myself for finding next apartment, and also find some interesting insights to share to others who may be interested. Research range such as which subarea is the good value of money, which area offers more houses, what should be a reasonable price given its location, number of rooms, etc. I hope next time when I'm visiting houses I can roughly know if the price offered by agent is a reasonable one.
 
+## Report
+Read [Researching Shanghai rental apartment market and predicting rental prices](https://medium.com/@lilyyapinglang/researching-shanghai-rental-apartment-market-and-predicting-rental-prices-aa00a394d3c1) on Medium for detailed, structured analysis and report.
+
 ## Data used 
 
 1. Shanghai apartment rental listing data scraped from lianjia.com (31071 rows × 34 columns)
